@@ -1,9 +1,3 @@
-## 鸣谢
-
-- [Project X](https://github.com/XTLS/Xray-core)
-- [v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku)
-- [v2argo](https://github.com/funnymdzz/v2argo)
-
 ## 概述
 
 本项目用于在 Heroku 以及其它 PaaS 平台上部署 Vmess WebSocket 和 Trojan Websocket 协议，支持 WS-0RTT 降低延迟，并可以启用 Cloudflare Argo 隧道。
